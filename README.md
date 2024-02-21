@@ -1,0 +1,1 @@
+# Yapay_Zeka_QA-y-_Nas-l_De-i-tiriyor
