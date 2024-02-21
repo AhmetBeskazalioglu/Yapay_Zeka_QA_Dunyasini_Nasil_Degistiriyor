@@ -1,4 +1,4 @@
-# Yapay_Zeka_QA-Dunyasini-_Nasil_Degistiriyor
+# Yapay_Zeka_QA_Dunyasini_Nasil_Degistiriyor
 
 ![_098435ea-84d5-4b86-9fc6-91c0f235acb4](https://github.com/AhmetBeskazalioglu/Yapay_Zeka_QA-y-_Nas-l_De-i-tiriyor/assets/146031280/1aebe3ec-f80b-4d83-90c1-fa3115631b2e)
 
